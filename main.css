@@ -18,4 +18,10 @@ body {
     align-items: center;
 }
 
+@media screen and (max-width: 600px) {
+    .root img {
+      width: 80%;
+    }
+  }
+
 
