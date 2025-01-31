@@ -1,2 +1,2 @@
-# This if for Jeffery and is a joke :) 
+# This is for Jeffery and is a joke :) 
 
